@@ -1,3 +1,3 @@
-https://github.com/mbouna/github-actions-pytest/tree/b983018fd3795dd5ecd31021f6f3f3e0a98f6933/.github/workflows
+[![Python application test with Github Actions](https://github.com/mbouna/github-actions-pytest/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/mbouna/github-actions-pytest/actions/workflows/pythonapp.yml)
 
 Example Github Actions Project designed to show how a hello version of Github Actions testing Python code.
